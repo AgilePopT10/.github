@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: suporte agilepop
+    url: mailto:pipocaagil.time10@gmail.com
+    about: para dúvidas ou problemas, entre em contato com o time agilepop.
+issue_template:
+  - bug_report.md
+  - feature_request.md
